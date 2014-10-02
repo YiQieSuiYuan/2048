@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D78E1A92-8D93-4A9B-BE3A-A7C78709B5FA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>My2048</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>596000E9D6A3F034795BF0669F9206127A21639A</key>
+		<string>https://github.com/YiQieSuiYuan/My2048.git</string>
+		<key>656C1094CD16F1B3B45D3B88F89F5787D88162AE</key>
+		<string>https://github.com/YiQieSuiYuan/My2048.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>My2048.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>596000E9D6A3F034795BF0669F9206127A21639A</key>
+		<string>../..</string>
+		<key>656C1094CD16F1B3B45D3B88F89F5787D88162AE</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/YiQieSuiYuan/My2048.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>596000E9D6A3F034795BF0669F9206127A21639A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>656C1094CD16F1B3B45D3B88F89F5787D88162AE</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>596000E9D6A3F034795BF0669F9206127A21639A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>My2048</string>
+		</dict>
+	</array>
+</dict>
+</plist>
